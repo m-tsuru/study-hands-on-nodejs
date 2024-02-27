@@ -1,6 +1,8 @@
 /*
 
-# モジュールのインポートはまとめて行える
+# 1.4.7.1 module.exports と require() | 2
+
+モジュールのインポートはまとめて行える
 require('./cjs-math2') を実行すると、`./cjs-math2/index.js` がロードされる 
 
 */
