@@ -1,0 +1,11 @@
+{
+  "name": "study-hands-on-nodejs",
+  "version": "1.0.0",
+  "description": "O'REILLY ジャパン ハンズオン Node.js (今村謙士; 2020) - 練習用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
